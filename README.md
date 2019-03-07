@@ -8,5 +8,5 @@ Required `ENV` variables:
 * `CODESHIP_PASSWORD`
 * `CODESHIP_ORG_UUID`
 * `CODESHIP_PROJECT_UUID`
-* `CODESHIP_API_URL`
-* `CODESHIP_PROJECT_REF`
+* `CODESHIP_API_URL` (optional)
+* `CODESHIP_PROJECT_REF` (optional, defaults to `master`)
